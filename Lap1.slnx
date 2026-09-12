@@ -3,7 +3,7 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="ConsoleApplication1/ConsoleApplication1.vcxproj" Id="c5465f92-44a6-45ea-8b53-25676044c97e" />
+  <Project Path="Task2/Task2.vcxproj" Id="3c54e321-4a45-4b5d-9d1c-ba7075af082d" />
   <Project Path="Task3/Task3.vcxproj" Id="837a51bb-274d-4163-858c-fad49d2b1101" />
   <Project Path="Tasl1/Tasl1.vcxproj" Id="1ad09c43-ec1b-4a8c-8e88-933769a590d3" />
 </Solution>
