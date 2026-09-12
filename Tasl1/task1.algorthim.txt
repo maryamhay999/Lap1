@@ -1,0 +1,6 @@
+1. START
+2. INPUT firstValue, secondValue
+3. SET answer = firstValue *
+secondValue
+4. OUTPUT answer
+5. STOP

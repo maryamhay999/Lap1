@@ -1,0 +1,8 @@
+1. START
+2. INPUT edge
+3. SET sideArea = edge * edge
+4. SET surfaceArea = 6 * sideArea
+5. SET volume = edge * edge * edge
+6. OUTPUT sideArea, surfaceArea and
+volume
+7. STOP
